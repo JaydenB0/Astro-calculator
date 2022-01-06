@@ -15,7 +15,8 @@ def LuminosityToDistance(apparent, absolute):
   distModulus = apparent - absolute
   calc = 10*math.sqrt(100**(distModulus/5))
   return calc 
-#def GalaxyVelocity
+def GalaxyVelocity(distance):
+  
 
 
 #if __name__ == '__main__':
