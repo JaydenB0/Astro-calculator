@@ -1,1 +1,1 @@
-FROM conda/miniconda3
+FROM python
